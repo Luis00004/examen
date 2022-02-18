@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(191, 218, 252);
+}
+h1.h1 {
+    text-align: center;
+    color: orange;
+}
+div.divASIR {
+    text-align: left;
+    color: orange;
+    background-color: blue;
+}
+div.divDAW {
+    text-align: left;
+    color: orange;
+    background-color: aqua;
+}
+div.bloqueDAW {
+    text-align: center;
+    background-color: pink;
+    }
+div.divblue {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+span.spanred {
+    color: red;
+}
